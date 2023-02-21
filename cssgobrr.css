@@ -1,0 +1,19 @@
+p {
+    color: #c50b0b;
+}
+
+.block {
+    border-radius: 10px;
+    width: 500px;
+    height: 200px;
+    background-color: #bbaf0f;
+}
+
+h1 {
+    color: #1b2bb4;
+}
+
+body {
+    margin: 10px auto;
+    background-color: black;
+}
